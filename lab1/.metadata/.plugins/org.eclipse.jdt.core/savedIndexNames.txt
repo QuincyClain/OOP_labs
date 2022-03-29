@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/home/quincyclain/Documents/EclipseJava/labs/lab1/.metadata/.plugins/org.eclipse.jdt.core
+1581524451.index
+3141775227.index
+1865797976.index
